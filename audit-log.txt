@@ -1,0 +1,16 @@
+---Server Audit Report---
+Wed Jul 22 10:38:07 PKT 2026
+               total        used        free      shared  buff/cache   available
+Mem:           11701        9602        2098          17         223        2098
+Swap:          30363        1229       29134
+Filesystem      Size  Used Avail Use% Mounted on
+rootfs          238G  177G   61G  75% /
+none            238G  177G   61G  75% /dev
+none            238G  177G   61G  75% /run
+none            238G  177G   61G  75% /run/lock
+none            238G  177G   61G  75% /run/shm
+none            238G  177G   61G  75% /run/user
+tmpfs           238G  177G   61G  75% /sys/fs/cgroup
+C:\             238G  177G   61G  75% /mnt/c
+D:\             233G  190G   44G  82% /mnt/d
+E:\             233G  208G   26G  89% /mnt/e
