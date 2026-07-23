@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Updated to test SSH connection
 # $1 represents the first word you type after the script name
 TARGET_DIR=$1
 
